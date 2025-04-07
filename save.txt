@@ -1,3 +1,4 @@
 Monsters killed: 1
 Monsters killed: 2
 Monsters killed: 2
+Monsters killed: 2
